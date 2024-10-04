@@ -4,10 +4,14 @@
 This repository focuses on the financial analysis of a business, evaluating key metrics such as Gross Market %, Profit and Loss by fiscal year, and Profit and Loss by month. These insights provide a comprehensive understanding of financial performance and support strategic decision-making.
 
 ## Project Objectives:
-1. Calculate and analyze [Gross Market % by Quarters] (https://github.com/harshass124/Excel-Financial-Analytics/blob/main/GM%25%20by%20Quarters.pdf)to assess market profitability.
-2. Develop **Profit and Loss (P&L) Reports by Fiscal Year** to evaluate yearly financial performance.
-3. Generate **Profit and Loss (P&L) Reports by Month** to track month-on-month financial outcomes.
+1. **Evaluate [Gross Market %](https://github.com/harshass124/Finance-Analysis/blob/main/GrossMarketReport.pdf)**  
+   Analyze market profitability and assess the contribution of various markets to the overall business performance.
 
+2. **Create [Profit and Loss Reports by Fiscal Year](https://github.com/harshass124/Finance-Analysis/blob/main/P&L%20Fiscal%20Year.pdf)**  
+   Provide a clear view of the company’s financial performance across fiscal years, highlighting key trends in revenues, expenses, and profits.
+
+3. **Generate [Profit and Loss Reports by Month](https://github.com/harshass124/Finance-Analysis/blob/main/P&L%20Month.pdf)**  
+   Track financial performance on a month-to-month basis to identify seasonal fluctuations and short-term trends in profit and loss.
 ## Purpose of Financial Analytics:
 To help businesses evaluate their financial health, support data-driven decision-making, and enhance communication with stakeholders by providing a clear view of profits, losses, and market performance.
 
