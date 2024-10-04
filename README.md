@@ -4,7 +4,7 @@
 This repository focuses on the financial analysis of a business, evaluating key metrics such as Gross Market %, Profit and Loss by fiscal year, and Profit and Loss by month. These insights provide a comprehensive understanding of financial performance and support strategic decision-making.
 
 ## Project Objectives:
-1. Calculate and analyze **Gross Market %** to assess market profitability.
+1. Calculate and analyze **Gross Market % by Quarters** (https://github.com/harshass124/Excel-Financial-Analytics/blob/main/GM%25%20by%20Quarters.pdf)to assess market profitability.
 2. Develop **Profit and Loss (P&L) Reports by Fiscal Year** to evaluate yearly financial performance.
 3. Generate **Profit and Loss (P&L) Reports by Month** to track month-on-month financial outcomes.
 
