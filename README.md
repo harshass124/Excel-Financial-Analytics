@@ -7,7 +7,7 @@ This repository focuses on the financial analysis of a business, evaluating key 
 1. **Evaluate [Gross Market % by Quarters](https://github.com/harshass124/Excel-Financial-Analytics/blob/main/GM%25%20by%20Quarters.pdf)**  
    Analyze market profitability and assess the contribution of various markets to the overall business performance.
 
-2. **Create [Profit and Loss Reports by Fiscal Year](https://github.com/harshass124/Finance-Analysis/blob/main/P&L%20Fiscal%20Year.pdf)**  
+2. **Create [Profit and Loss Report by Fiscal Year](https://github.com/harshass124/Excel-Financial-Analytics/blob/main/P%20%26%20L%20by%20year.pdf)**  
    Provide a clear view of the company’s financial performance across fiscal years, highlighting key trends in revenues, expenses, and profits.
 
 3. **Generate [Profit and Loss Reports by Month](https://github.com/harshass124/Finance-Analysis/blob/main/P&L%20Month.pdf)**  
